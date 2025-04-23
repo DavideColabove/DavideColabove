@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently a **Bachelor's student in Computer Science** (3rd year).
+- 🎓 I'm currently a **Bachelor's student in Computer Science @UniPD** (3rd year).
 - 📅 I plan to graduate by **2026**.
 - 🧠 I'm deeply passionate about **problem solving**, **data structures**, **algorithms**, and **low-level programming (C++)**.
 - 🌐 I dream of joining **Google** within the next 3 years as a SWE.
@@ -60,11 +60,6 @@ Other:       Markdown | LaTeX | UML | Git CLI
     <img src="https://img.shields.io/badge/Email-colabove.davide%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/>
   </a>
 </p>
-
----
-
-> 🧩 “Simplicity is the soul of efficiency.” — Austin Freeman  
-> Keep learning, keep building, and never stop solving problems. 💡
 
 ---
 
