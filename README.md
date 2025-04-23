@@ -1,19 +1,19 @@
 <h1 align="center">Hi there, I'm Davide 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=640&lines=Computer+Science+Student+@UniPD;Aspiring+Software+Engineer+at+Google;Passionate+about+C%2B%2B%2C+AI%2C+and+Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=640&lines=Computer+Science+Student+@UniPD;Aspiring+Software+Engineer+at+Google;Passionate+about+CS+&+sneakers" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently a **Bachelor's student in Computer Science** (1st year).
-- 📅 I plan to graduate by **September 2026**.
+- 🎓 I'm currently a **Bachelor's student in Computer Science** (3rd year).
+- 📅 I plan to graduate by **2026**.
 - 🧠 I'm deeply passionate about **problem solving**, **data structures**, **algorithms**, and **low-level programming (C++)**.
-- 🌐 I dream of joining **Google** within the next 3 years as a software engineer.
+- 🌐 I dream of joining **Google** within the next 3 years as a SWE.
 - 🛠️ My current focus: mastering **C++**, **competitive programming**, and **discrete mathematics**.
-- 📚 I'm studying **Linear Algebra**, **Discrete Math**, and sharpening my development skills.
+- 📚 I'm studying **Everything I like**, and sharpening my development skills.
 
 ---
 
