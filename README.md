@@ -1,5 +1,9 @@
 <h1 align="center">Hello World, I'm Davide 👋</h1>
 
+<a href="https://www.linkedin.com/in/davidecolabove/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/davide.colabove/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=640&lines=Computer+Science+Student+@UniPD;Aspiring+Software+Engineer+at+Google;Passionate+about+CS+and+sneakers;" alt="Typing SVG" />
 </p>
