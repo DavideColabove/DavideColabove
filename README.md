@@ -63,6 +63,6 @@ Other:       Markdown | LaTeX | UML | Git CLI
 
 ---
 
-<p align="center">
-  <img src="https://leetcode.jacoblin.com/DavideColabove?theme=unicorn&font=Bungee&ext=activity" alt="leetcode Stats" style="display: block; margin: 0 auto;">
-</p>
+<div align="center">
+  <img src="https://leetcode.jacoblin.com/DavideColabove?theme=unicorn&font=Bungee&ext=activity" alt="leetcode Stats">
+</div>
