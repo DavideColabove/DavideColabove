@@ -57,7 +57,7 @@ Other:       Markdown | LaTeX | UML | Git CLI
     <img src="https://img.shields.io/github/followers/DavideColabove?label=GitHub&style=social" alt="GitHub"/>
   </a>
   <a href="mailto:colabove.davide@gmail.com">
-    <img src="https://img.shields.io/badge/Email-davide.colabove%40example.com-blue?style=flat-square&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-colabove.davide%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/>
   </a>
 </p>
 
@@ -65,5 +65,7 @@ Other:       Markdown | LaTeX | UML | Git CLI
 
 > 🧩 “Simplicity is the soul of efficiency.” — Austin Freeman  
 > Keep learning, keep building, and never stop solving problems. 💡
+
+---
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DavideColabove?theme=nord&font=Bungee&ext=activity)
