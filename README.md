@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Davide 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Aspiring+Software+Engineer+at+Google;Passionate+about+C%2B%2B%2C+AI%2C+and+Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Computer+Science+Student+@UniPD;Aspiring+Software+Engineer+at+Google;Passionate+about+C%2B%2B%2C+AI%2C+and+Algorithms" alt="Typing SVG" />
 </p>
 
 ---
