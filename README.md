@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Davide 👋</h1>
+<h1 align="center">Hello World, I'm Davide 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=640&lines=Computer+Science+Student+@UniPD;Aspiring+Software+Engineer+at+Google;Passionate+about+CS+&+sneakers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=640&lines=Computer+Science+Student+@UniPD;Aspiring+Software+Engineer+at+Google;Passionate+about+CS+and+sneakers;" alt="Typing SVG" />
 </p>
 
 ---
