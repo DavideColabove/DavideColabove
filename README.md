@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/DavideColabove?theme=nord&font=Bungee&ext=activity)
 <!--
 **DavideColabove/DavideColabove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
