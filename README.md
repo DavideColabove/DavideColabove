@@ -69,5 +69,7 @@ Other:       Markdown | LaTeX | UML | Git CLI
 ---
 
 <p align="center">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/DavideColabove?theme=nord&font=Bungee&ext=activity)
+  <a>
+    ![LeetCode Stats](https://leetcard.jacoblin.cool/DavideColabove?theme=nord&font=Bungee&ext=activity)
+  </a>
 </p>
