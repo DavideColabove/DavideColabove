@@ -11,7 +11,7 @@
 - 🎓 I'm currently a **Bachelor's student in Computer Science @UniPD** (3rd year).
 - 📅 I plan to graduate by **2026**.
 - 🧠 I'm deeply passionate about **problem solving**, **data structures**, **algorithms**, and **low-level programming (C++)**.
-- 🌐 I dream of joining a **FANG** within the next 3 years as a SWE.
+- 🌐 I dream of joining a **FAANG** within the next 3 years as a SWE.
 - 🛠️ My current focus: mastering **C++** and **competitive programming**.
 - 📚 I'm studying **Everything I like**, and sharpening my development skills.
 
@@ -46,7 +46,7 @@ Other:       Markdown | LaTeX | UML | Git CLI
 - 📈 Grow through competitive programming and open-source contributions.
 - 🧠 Master C++ and mathematical problem solving.
 - 🧪 Complete side projects that showcase my skills.
-- 💼 Land an internship (and eventually a role) in a FANG.
+- 💼 Land an internship (and eventually a role) in a FAANG.
 
 ---
 
