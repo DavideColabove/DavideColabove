@@ -12,8 +12,8 @@
 - 📅 I plan to graduate by **2026**.
 - 🧠 I'm deeply passionate about **problem solving**, **data structures**, **algorithms**, and **low-level programming (C++)**.
 - 🌐 I dream of joining a **FAANG** within the next 3 years as a SWE.
-- 🛠️ My current focus: mastering **C++** and **competitive programming**.
-- 📚 I'm studying **Everything I like**, and sharpening my development skills.
+- 🛠️ My current focus: mastering **C++** and **object-oriented programming**.
+- 📚 I'm studying **everything I like**, and sharpening my development skills.
 
 ---
 
